@@ -5,9 +5,17 @@ I have worked mostly as a fullstack sofware engineer and data scientist.
 Currently I am advancing my skills in web3 and Solidity.
 
 
-### You can also find me here:
-<div align="center">  
-  <a href="http://linkedin.com/in/lorenzo-cesconetto/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+You can also find on Twitter and LinkedIn:
+<div align="center">
+  
+  <a href="http://twitter.com/l_cesconetto">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://twitter.com/l_cesconetto">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  
 </div>
   
 ## Some of my skills are:
