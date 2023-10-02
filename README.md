@@ -2,9 +2,6 @@
 
 I have worked mostly as a fullstack sofware engineer and data scientist.
 
-Currently I am advancing my skills in web3 and Solidity.
-
-
 You can also find on Twitter and LinkedIn:
 <div align="center">
   
